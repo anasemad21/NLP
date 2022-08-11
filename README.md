@@ -1,2 +1,2 @@
-# NLP
-Auto fill 
+#Bigrm_Auto fill 
+We gathered our corpus from a mental health papres which was an encyclopedia about cancer;It had over 800 thousand words. We cleaned the data by removing the first few pages, images and the last few pages. We also removed links and unnecessary elements. We have also removed sections to remove some of the data because it was too big to run as it took a long time. After all of that, we ended up with over 200 thousand words.
